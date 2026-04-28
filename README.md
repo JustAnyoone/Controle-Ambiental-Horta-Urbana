@@ -36,8 +36,8 @@ Conforme os critérios de entrega profissional, os seguintes diagramas estão di
  Links para Evidências de Desenvolvimento
 O desenvolvimento completo pode ser verificado através dos links obrigatórios abaixo:
 
-    Simulação de Hardware: [Link do Tinkercad aqui]
-    Protótipo de Interface: [Link do Figma/Canva aqui]
+  
+    Protótipo de Interface: [https://canva.link/8msbr2jped5acfg]
     Documentação Final (PDF): Disponível na Sala Online.
 
  Integrantes
